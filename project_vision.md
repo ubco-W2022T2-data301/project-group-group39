@@ -6,4 +6,3 @@ We as a team are to understand and visualize the progression of NBA players over
 ## Contracted Grade
 
 For this project, we agree to contract for a { A+/A/B/C }.
-git

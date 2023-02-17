@@ -14,6 +14,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 {Add your stuff here}
 
+the dataset we have chosen to use is the NBA Basketball Player Statistics. 
+
 ## Team Members
 
 - Person 1: one sentence about you!
