@@ -20,7 +20,7 @@ The NBA dataset was provided by Anyush Jain, a former Computer Vision Intern at 
 
 - Person 1: one sentence about you!
 - Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Person 3: My name is regan and I am majoring in computer science  
 
 ## Images
 
