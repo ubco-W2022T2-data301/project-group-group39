@@ -1,0 +1,68 @@
+# **Final Report**
+
+
+### Introduction: A short paragraph introducing your project to the audience and a motivation for why this project is important. It’s fine to say your group has an interest in this topic and were keen to explore it more.
+
+
+
+### Exploratory Data Analysis: A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
+
+--- 
+Question 1 + Results: Clearly state your research question, and include 2-3 visualizations that helped you answer your research question. You can create multi-panel figures, but each of your visualizations must speak directly to your research question, and any insights you were able to get from it should be clearly articulated in the figure caption/description.
+
+--- 
+
+
+
+Question 2 + Results: Same as above.
+
+**Due to the progression of health science, NBA players have gotten stronger, faster, more accurate and more athletic in general. How has that affected scoring in the NBA?**
+
+---
+
+
+
+
+
+![graph1](analysis/graph1.png)
+
+### Summary
+ this is a box plot that plots the top ten best scorers average, of each season. Using this graph. We are using box plot becuase you can get high level information such as first quartile, median, third quartile, outliers, and maximum values just at a glace. We can see that the later season go by the median of each season seems to go up, and the box in the graph that represent the quartiles are smaller, suggesting that the level gap of players seem to be to be closer. The boxs of the later seasons seem to start higher which indicates that the players as a whole in the NBA, scores more points recently.
+
+
+![graph2](analysis/graph2.png)
+
+### Summary
+This is a line plot of the average of the top ten best scorers average of each season from 1996-2022, using this graph we can easier compare each seasons average of the line graph connects to one another. Observing the graph, we can see the top players of each season and thre average. We can see that from the season 2011-2012 to 2021-2022 the graph shows a upwards slop with the peek of the whole graph in 2019-2020 with 30 pts average. This indicates that this is the highest players ever averaged. 
+
+
+### Observations
+* Can see the bigger difference between each season which is good because even one point is a big difference between one another
+
+* 2005-2006 and 2019-2020 were the peaks of the graph, which is 14 years between each other. Big age difference but not huge pts difference
+
+* 1998-1999 was the lowest average pts by a whole point 
+
+
+![graph3](analysis/graph3.png)
+
+### Summmary 
+This is a a jointplot graph with the x value being the seasons while y value being the average of the top ten best scorers average of each season. The main area is a scatter plot with a regression line so we can see what the tragectory of the plots. the side graphs are histograms of the marginal distributions. 
+
+### Observation 
+
+- the trajectory of the trend line it facing the top right corner of the graph indicating that as the time passes, the more average points the the player score.
+
+- Most seasons, the average point fall between 25 pts and 26 pts based of the histogram graph that shows the marginal distribution
+
+
+
+
+
+
+Question 3 + Results: Same as above.
+
+
+
+
+Summary/Conclusion: A brief paragraph that highlights your key results and what you learned from doing this project.
