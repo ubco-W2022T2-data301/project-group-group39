@@ -6,11 +6,10 @@
 The Project we have been diligently working on requires conducting data research, where we find an intriguing dataset for further exploration. Our process involves formulating research questions that challenge us to wrangle, extract, and manipulate the dataset, while also creating visual diagrams to address these questions and gain insights from the dataset. As a group, we were highly motivated to undertake this project due to our interest in basketball from a young age, which led to closely following the NBA. Now that we have the opportunity to thoroughly analyze NBA stats, we are enthusiastic about uncovering answers to the questions we had prior to the announcement of this project.
 
 &nbsp;
-&nbsp;
-&nbsp;
 
 
-### Exploratory Data Analysis: A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
+
+
 
 # EDA (Exploratory data analysis)
 
@@ -29,18 +28,18 @@ The Project we have been diligently working on requires conducting data research
 
 ### **Observations** 
 
-* Vince carters has the most season played in the nba ever, to play a sport of the highest level for over 2 decades is impressive 
+* Vince Carters has the most season played in the NBA ever, to play a sport of the highest level for over 2 decades is impressive 
  
-* Other then 2 people, no one else in the nba has made it over 20 season. 
+* Other than 2 people, no one else in the NBA has made it over 20 seasons. 
 
 ![graph1](images/EDA_graph3.png)
 
 ### **Observation** 
-* The plotted points are all within 10 points from each other. 
+* The plotted points are all within 10 points of each other. 
 
-* the trajectory of the trend line it facing the top right corner of the graph indicating that as the time passes, the more average points the the player score.
+* the trajectory of the trend line it facing the top right corner of the graph indicating that as time passes, the more average points the player score.
 
-
+&nbsp;
 ![graph1](images/Adam_EDA1.png)
 ### Observations 
 
@@ -61,14 +60,6 @@ The Project we have been diligently working on requires conducting data research
 - Lebron is more efficient now then he was in every other season except from 2012-2014
 - 60% seems to be a mean across the players
 - Kevin Durant appears to be the most efficient of the bunch but not by a large margin
-
-
-
-
-
-
-
---- 
 
 # Question + Results (Adam Delfs)
 
@@ -91,13 +82,6 @@ This is a collection of line plots of each players points per game averages in e
 ![graph1](images/Adam_Graph3.png)
 
 
-### Summary 
-This joint plot shows the relationship between a player's true total points and their overall shooting percentage with each dot being a differnt season as well as the relative distrubution of each. The plot suggests that there is generally a positive relationship between these two variables, with players who score more points tending to have a higher shooting percentage. However, some players appear to be outliers, scoring a relatively high number of points with a relatively low shooting percentage like Lebron for exmple  or vice versa like Kevin Durant. This Shows that shooting efficinecy is not nessecerilly important for scoring the most points but rather the amount of shots taken .
-
-
-
-
-
 
 
 
@@ -109,29 +93,32 @@ This joint plot shows the relationship between a player's true total points and 
 
 ![graph1](images/graph1.png)
 
-### Summary
- this is a box plot that plots the top ten best scorers average, of each season. Using this graph. We are using box plot becuase you can get high level information such as first quartile, median, third quartile, outliers, and maximum values just at a glace. We can see that the later season go by the median of each season seems to go up, and the box in the graph that represent the quartiles are smaller, suggesting that the level gap of players seem to be to be closer. The boxs of the later seasons seem to start higher which indicates that the players as a whole in the NBA, scores more points recently.
+### Description
+ this is a box plot that plots the top ten best scorers' averages, of each season. Using this graph. We are using box plots because you can get high-level information such as the first quartile, median, third quartile, outliers, and maximum values just at a glance. We can see that as the later season goes by the median of each season seems to go up, and the boxes in the graph that represent the quartiles is smaller, suggesting that the level gap of players seems to be closer. The boxes of the later seasons seem to start higher which indicates that the players as a whole in the NBA, scores more points recently.
 
 
 ![graph2](images/graph2.png)
 
-### Summary
+### Description
 This is a line plot of the average of the top ten best scorers average of each season from 1996-2022, using this graph we can easier compare each seasons average of the line graph connects to one another. Observing the graph, we can see the top players of each season and thre average. We can see that from the season 2011-2012 to 2021-2022 the graph shows a upwards slop with the peek of the whole graph in 2019-2020 with 30 pts average. This indicates that this is the highest players ever averaged. 
 
 ![graph3](images/graph3.png)
 
-### Summmary 
-This is a a jointplot graph with the x value being the seasons while y value being the average of the top ten best scorers average of each season. The main area is a scatter plot with a regression line so we can see what the tragectory of the plots. the side graphs are histograms of the marginal distributions. Based on the regression line we can see that its at a positive slop thus indicating that players are scoring more points after each season on average.
+### Description
+This is a joint plot graph with the x value being the seasons while the y value being the average of the top ten best scorers average of each season. The main area is a scatter plot with a regression line so we can see the trajectory of the plots. the side graphs are histograms of the marginal distributions. In most seasons, the average point falls between 25 pts and 26 pts based on the histogram graph that shows the marginal distribution Based on the regression line we can see that it's at a positive slope thus indicating that players are scoring more points after each season on average.
 
 &nbsp;
-&nbsp;
-&nbsp;
+
 
 # Summary/Conclusion:
 
-since the question I prompt that was to see the affect of scoring in the NBA as the atheletitism of the player has gradually increase over the years. 
+ ### Regan
+ I conducted a study to examine the impact of player athleticism on scoring in the NBA over the years. By wrangling, manipulating, and making visuals of the dataset, I believe that I have an answer to my question. The results consistently showed that scoring has increased over the seasons. The box plot revealed an upward trend in median scoring and lower quartile scores. The line graph displayed the highest average of the top 10 players, which was recently achieved and surpassed the previous peak by 2 points. Additionally, the joint plot depicted a positive regression slope, indicating that the top 10 scorers of each season are on an incline. These findings collectively suggest that scoring in the NBA has been on the rise as player athleticism has improved.
+ 
+[You can find the full analysis notbook here, including the code and the data here](analysis/analysis2.ipynb)
 
 
-due to the progression of health science, NBA players have gotten stronger, faster, more accurate and more athletic in general. How has that affected scoring in the NBA?
+### Adam
+The Culmination of this All leads me to the conclusion that LeBron Jame’s All time scoring record is an extremely difficult one to beat. LeBron achieved it through a combination of high volume shot taking, consistency as well as longevity. Beating this record may be possible but there is an absolute Goliath of a player in their way with a huge lead. All the while, LeBron is still playing increasing the record each game. Kevin Durant is the closest despite still being over 10 000 points behind but could have been a lot closer if he takes more shots. James Harden would have had a shot if he had remained consistent in his scoring. Players such as Giannis Antetokounmpo  and Jayson Tatum still have a shot if they continue to increase their points per game averages each season as they have been. The young guns, Luka Doncic and Trae Young have the best chance based on their current scoring practices but they will need to maintain them for a very long time. Overall, it is clear that in order to beat one of the greatest players of all time you will need to put in 110% in and more. Through this project I gained a further insight into the NBA, as well as learned valuable skills such as data wrangling and selection as well as creating effective and aesthetic visualizations. 
 
-
+[You can find the full analysis notbook here, including the code and the data here](analysis/analysis1.ipynb)
