@@ -1,34 +1,58 @@
 # **Final Report**
 
 
-### Introduction: A short paragraph introducing your project to the audience and a motivation for why this project is important. It’s fine to say your group has an interest in this topic and were keen to explore it more.
+## **Introduction:** 
 
-___
+The Project we have been diligently working on requires conducting data research, where we find an intriguing dataset for further exploration. Our process involves formulating research questions that challenge us to wrangle, extract, and manipulate the dataset, while also creating visual diagrams to address these questions and gain insights from the dataset. As a group, we were highly motivated to undertake this project due to our interest in basketball from a young age, which led to closely following the NBA. Now that we have the opportunity to thoroughly analyze NBA stats, we are enthusiastic about uncovering answers to the questions we had prior to the announcement of this project.
 
-The Project we have been diligently working on requires conducting data research, where we find an intriguing dataset for further exploration. Our process involves formulating research questions that challenge us to wrangle, extract, and manipulate the dataset, while also creating visual diagrams to address these questions and gain insights from the dataset. As a group, we were highly motivated to undertake this project due to our interest in basketball from a young age, which led to closely following the NBA. Now that we have the opportunity to thoroughly analyze NBA stats, we are enthusiastic about uncovering answers to the questions we had prior to the announcement of this project. 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ### Exploratory Data Analysis: A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
 
+# EDA (Exploratory data analysis)
 
+![graph1](images/EDA_graph4.png)
+
+### **Observation**
+
+- the FT% for 1994 was the lowest value with 72%.
+
+- Huge down trajectory on the graph from 1991-1994
+
+- from 1999 -2016 seem to have a rising slope. 
+
+
+![graph1](images/EDA_graph2.png)
+
+### **Observations** 
+
+* Vince carters has the most season played in the nba ever, to play a sport of the highest level for over 2 decades is impressive 
+ 
+* Other then 2 people, no one else in the nba has made it over 20 season. 
+
+![graph1](images/EDA_graph3.png)
+
+### **Observation** 
+* The plotted points are all within 10 points from each other. 
+
+* the trajectory of the trend line it facing the top right corner of the graph indicating that as the time passes, the more average points the the player score.
 
 
 --- 
 Question 1 + Results: Clearly state your research question, and include 2-3 visualizations that helped you answer your research question. You can create multi-panel figures, but each of your visualizations must speak directly to your research question, and any insights you were able to get from it should be clearly articulated in the figure caption/description.
 
---- 
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
-Question 2 + Results: Same as above.
+# Question + Results (Regan Nguyen)
 
 **Due to the progression of health science, NBA players have gotten stronger, faster, more accurate and more athletic in general. How has that affected scoring in the NBA?**
-
----
-
-
-
 
 
 ![graph1](images/graph1.png)
@@ -47,15 +71,15 @@ This is a line plot of the average of the top ten best scorers average of each s
 ### Summmary 
 This is a a jointplot graph with the x value being the seasons while y value being the average of the top ten best scorers average of each season. The main area is a scatter plot with a regression line so we can see what the tragectory of the plots. the side graphs are histograms of the marginal distributions. Based on the regression line we can see that its at a positive slop thus indicating that players are scoring more points after each season on average.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Summary/Conclusion:
+
+since the question I prompt that was to see the affect of scoring in the NBA as the atheletitism of the player has gradually increase over the years. 
 
 
-
-
-
-
-
-
-
-Summary/Conclusion: A brief paragraph that highlights your key results and what you learned from doing this project.
+due to the progression of health science, NBA players have gotten stronger, faster, more accurate and more athletic in general. How has that affected scoring in the NBA?
 
 
