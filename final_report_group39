@@ -1,34 +1,110 @@
 # **Final Report**
 
 
-### Introduction: A short paragraph introducing your project to the audience and a motivation for why this project is important. It’s fine to say your group has an interest in this topic and were keen to explore it more.
+## **Introduction:** 
 
-___
+The Project we have been diligently working on requires conducting data research, where we find an intriguing dataset for further exploration. Our process involves formulating research questions that challenge us to wrangle, extract, and manipulate the dataset, while also creating visual diagrams to address these questions and gain insights from the dataset. As a group, we were highly motivated to undertake this project due to our interest in basketball from a young age, which led to closely following the NBA. Now that we have the opportunity to thoroughly analyze NBA stats, we are enthusiastic about uncovering answers to the questions we had prior to the announcement of this project.
 
-The Project we have been diligently working on requires conducting data research, where we find an intriguing dataset for further exploration. Our process involves formulating research questions that challenge us to wrangle, extract, and manipulate the dataset, while also creating visual diagrams to address these questions and gain insights from the dataset. As a group, we were highly motivated to undertake this project due to our interest in basketball from a young age, which led to closely following the NBA. Now that we have the opportunity to thoroughly analyze NBA stats, we are enthusiastic about uncovering answers to the questions we had prior to the announcement of this project. 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ### Exploratory Data Analysis: A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
 
+# EDA (Exploratory data analysis)
+
+![graph1](images/EDA_graph4.png)
+
+### **Observation**
+
+- the FT% for 1994 was the lowest value with 72%.
+
+- Huge down trajectory on the graph from 1991-1994
+
+- from 1999 -2016 seem to have a rising slope. 
+
+
+![graph1](images/EDA_graph2.png)
+
+### **Observations** 
+
+* Vince carters has the most season played in the nba ever, to play a sport of the highest level for over 2 decades is impressive 
+ 
+* Other then 2 people, no one else in the nba has made it over 20 season. 
+
+![graph1](images/EDA_graph3.png)
+
+### **Observation** 
+* The plotted points are all within 10 points from each other. 
+
+* the trajectory of the trend line it facing the top right corner of the graph indicating that as the time passes, the more average points the the player score.
+
+
+![graph1](images/Adam_EDA1.png)
+### Observations 
+
+- It is clear Lebron has a large lead over everyone else 
+- Durant is closest but is only four years younger with over 10 000 less points
+- However players like Luka,Jayson and Trae are still very young and have an impressive number of points
+
+![graph1](images/Adam_EDA2.1.png)
+
+
+![graph1](images/Adam_EDA2.2.png)
+
+
+![graph1](images/Adam_EDA2.3.png)
+
+### Observations
+
+- Lebron is more efficient now then he was in every other season except from 2012-2014
+- 60% seems to be a mean across the players
+- Kevin Durant appears to be the most efficient of the bunch but not by a large margin
+
+
+
+
 
 
 
 --- 
-Question 1 + Results: Clearly state your research question, and include 2-3 visualizations that helped you answer your research question. You can create multi-panel figures, but each of your visualizations must speak directly to your research question, and any insights you were able to get from it should be clearly articulated in the figure caption/description.
 
---- 
+# Question + Results (Adam Delfs)
+
+**Lebron James has had a one of a kind career, his latest greatest accolade being beating Kareem Abdul Jabbar's long standing all-time points record. Is any other active player capable of beating Lerbons Record?**
+
+
+![graph1](images/Adam_Graph1.png)
+
+### Summary 
+The scatter plot shows a comparison of the total number of games played and total points Scored. LeBron James stands out as the player who has played the most games and scored the most points among the selected players by far . Other players such as Stephen Curry, Kevin Durant, and James Harden are close but still nowhere near LeBron James, however they have fewer games played. Trae Young and Luka Doncic have  similar total point values per game played, indicating they may have a high potential to have a  higher total point values with more games played. The Biggest Takeaway from this Graph is how diificult a record it will be to break.
+
+
+![graph1](images/Adam_Graph2.1.png)
+![graph1](images/Adam_Graph2.2.png)
+![graph1](images/Adam_Graph2.3.png)
+### Summary 
+This is a collection of line plots of each players points per game averages in each season they played, this is helpful for demonsrating consistency and progresssion. This Graph lends us much information. Lebron Has not been extremely consistent but his points per game in his 2021-22 season came close to his all time peak showing lonegevity. James Harden had a steep drop off after the 2018-2019 season which is not a great sign in terms of beating lebrons record even though he is the second closest currently.Giannis has been consistenly improving since his first season which makes him a top canidate to take the top spot (Same goes for Jayson tatum).  Luka and Trae have similar PPG to Lebron in their first two seasons which make them another two canidates.  
+
+
+![graph1](images/Adam_Graph3.png)
+
+
+### Summary 
+This joint plot shows the relationship between a player's true total points and their overall shooting percentage with each dot being a differnt season as well as the relative distrubution of each. The plot suggests that there is generally a positive relationship between these two variables, with players who score more points tending to have a higher shooting percentage. However, some players appear to be outliers, scoring a relatively high number of points with a relatively low shooting percentage like Lebron for exmple  or vice versa like Kevin Durant. This Shows that shooting efficinecy is not nessecerilly important for scoring the most points but rather the amount of shots taken .
 
 
 
-Question 2 + Results: Same as above.
+
+
+
+
+
+
+# Question + Results (Regan Nguyen)
 
 **Due to the progression of health science, NBA players have gotten stronger, faster, more accurate and more athletic in general. How has that affected scoring in the NBA?**
-
----
-
-
-
 
 
 ![graph1](images/graph1.png)
@@ -47,15 +123,15 @@ This is a line plot of the average of the top ten best scorers average of each s
 ### Summmary 
 This is a a jointplot graph with the x value being the seasons while y value being the average of the top ten best scorers average of each season. The main area is a scatter plot with a regression line so we can see what the tragectory of the plots. the side graphs are histograms of the marginal distributions. Based on the regression line we can see that its at a positive slop thus indicating that players are scoring more points after each season on average.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Summary/Conclusion:
+
+since the question I prompt that was to see the affect of scoring in the NBA as the atheletitism of the player has gradually increase over the years. 
 
 
-
-
-
-
-
-
-
-Summary/Conclusion: A brief paragraph that highlights your key results and what you learned from doing this project.
+due to the progression of health science, NBA players have gotten stronger, faster, more accurate and more athletic in general. How has that affected scoring in the NBA?
 
 
