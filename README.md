@@ -1,6 +1,6 @@
-# Group YY - {Short snappy Title of your project}
+# Group 39 {NBA Dream Team}
 
-- Your title can change over time.
+
 
 ## Milestones
 
@@ -19,8 +19,8 @@ The NBA dataset was provided by Anyush Jain, a former Computer Vision Intern at 
 ## Team Members
 
 - Person 1: My name is Adam and I am majoring in computer science
-- Person 2: one sentence about you!
-- Person 3: My name is regan and I am majoring in computer science  
+- Person 2:My name is regan and I am majoring in computer science  
+- Person 3: NA
 
 ## Images
 
@@ -31,5 +31,7 @@ The NBA dataset was provided by Anyush Jain, a former Computer Vision Intern at 
 ## References
 
 {Add your stuff here}
+dataset: ttps://www.kaggle.com/datasets/ayushjain001/nba-basketball-player-statistics?select=player.csv 
+
 
 
