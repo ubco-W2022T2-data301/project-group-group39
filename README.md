@@ -30,7 +30,6 @@ The NBA dataset was provided by Anyush Jain, a former Computer Vision Intern at 
 
 ## References
 
-{Add your stuff here}
 dataset: ttps://www.kaggle.com/datasets/ayushjain001/nba-basketball-player-statistics?select=player.csv 
 
 
